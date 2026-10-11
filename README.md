@@ -1,8 +1,7 @@
 # Hi there! I'm Juan Sebastian Galeano 👋
 
 ### 🚀 Systems Engineer & Cloud / Pre-Sales Specialist
-I am a Systems Engineer based in Colombia with strong experience in software development, multi-cloud solutions design, and technical architecture. Passionate about cloud technologies, automation, and building scalable solutions.
-
+Systems Engineer & Multi-Cloud Architect based in Colombia. I specialize in designing scalable cloud architectures, drive technical enablement, and build robust software solutions using modern cloud, backend, and automation stacks.
 ---
 
 ### 🌐 Connect with Me:
